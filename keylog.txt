@@ -1,0 +1,7 @@
+
+[backspace][backspace]i run python keylogger.py t[backspace]and then press enter it creates l[backspace]keylog.txt how much do wait for it [shift]?
+netflix
+[alt_l]	NoneNoneNoneNone[cmd]command
+ls
+dir
+[ctrl_l][esc][shift]H [shift]Hello [shift]World[ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][esc]
