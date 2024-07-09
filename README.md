@@ -73,3 +73,8 @@ def on_release(key):
 with keyboard.Listener(on_press=on_press, on_release=on_release) as listener:
     listener.join()
 ```
+### License
+This project is open source and available under the MIT License.
+
+### Author
+`Umar Farooq`
